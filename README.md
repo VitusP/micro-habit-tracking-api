@@ -4,7 +4,7 @@ Microservice for storing data for habit tracking api based on atomic habits. Thi
 ## Architecture
 ![Sonny and Mariel high fiving.](tracking-microservices-aws-diagram.png)
 Services that will be used:
-```JSON
+```
 - AWS Internet Gateway
 - AWS API Gateway
 - AWS ECS Fargate
